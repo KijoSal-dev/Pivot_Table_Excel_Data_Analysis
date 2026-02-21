@@ -1,8 +1,7 @@
 # Pivot_Table_Excel_Data_Analysis
 
 ## Overview
-
-Pivot_Table_Excel_Data_Analysis is a project designed to streamline and automate data analysis with Excel PivotTables. Whether you're handling financial data, survey responses, or large datasets in Excel, this tool can help you quickly generate insightful summaries to make better decisions.
+Pivot_Table_Excel_Data_Analysis is a Python-based automation project that simplifies Excel data analysis with PivotTables. It enables users to quickly generate structured summaries, perform custom aggregations, and extract meaningful insights from large datasets with minimal manual effort.
 
 ## 🚀 Brief Approach Summary
 - Read and process Excel data using pandas and Excel-compatible libraries.
